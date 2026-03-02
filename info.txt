@@ -1,0 +1,143 @@
+PICT InC 2026
+Impetus, Concepts and Pradnya
+39th Edition
+
+Organized by
+Pune Institute of Computer Technology (PICT), Pune
+
+Venue
+Pune Institute of Computer Technology
+Sr. No. 27, Near Trimurti Chowk
+Dhankawadi, Pune 411043
+
+Event Dates
+27 March 2026
+28 March 2026
+29 March 2026
+
+Website
+[www.pictinc.org](http://www.pictinc.org
+
+ INTRODUCTION
+
+PICT InC (Impetus and Concepts) is the flagship technical event of Pune Institute of Computer Technology. It is an international-level inter-collegiate competition designed to promote innovation, creativity, and technical excellence among engineering students. Over the years, InC has evolved from a small inter-departmental competition into a nationally and internationally recognized platform that attracts students, academicians, startups, and industry professionals.
+
+InC bridges the gap between academia and industry by providing students with opportunities to present real-world projects, receive expert feedback, gain mentorship, and secure internships or job offers through direct interaction with industry leaders.
+
+ OBJECTIVES OF InC
+The objectives of InC are to provide a platform for emerging technical talent, encourage innovative thinking and problem-solving, facilitate meaningful interactions between students and industry professionals, promote entrepreneurship among students, and help participants transform academic projects into deployable real-world solutions.
+EVENTS AT InC 2026
+InC 2026 consists of four major events:
+1. CONCEPTS – Project Exhibition for Final Year Engineering Students
+2. IMPETUS – Project Competition for FE, SE, and TE Students
+3. PRADNYA – Programming Contest
+4. TECHFIESTA – International Hackathon
+
+CONCEPTS EVENT – FINAL YEAR PROJECT COMPETITION
+Eligibility
+The Concepts event is exclusively for Final Year (BE) Engineering students. Students from all engineering branches are eligible to participate, provided their projects fall under the specified domains. All team members must belong to the same institute.
+Team Structure
+Each team can consist of a minimum of 1 and a maximum of 6 students.
+Registration Fee
+Rs. 500 per team.
+Project Requirements
+Projects must be fully implemented and functional. Idea-only presentations or partially completed projects are not permitted. The project should demonstrate technical depth, innovation, feasibility, and real-world applicability.
+Domains like : 
+Application Development
+Web Applications
+Mobile Applications (Android)
+Database Systems
+Computer Networks
+Internet of Things (IoT)
+Information and Network Security
+Digital Signal Processing
+Image, Speech, and Video Processing
+Embedded Systems
+VLSI Systems
+Artificial Intelligence
+Machine Learning
+Pattern Recognition
+Bio Signal Processing
+Biomedical Applications
+Bioinformatics
+Other emerging and interdisciplinary technologies
+
+Evaluation Process
+Each project will be evaluated by a minimum of three industry judges. Evaluation may occur in one combined session or in multiple sessions depending on judge availability. Teams must be available for all assigned sessions.
+
+Judging Criteria
+Innovation and originality
+Technical feasibility and complexity
+Implementation quality
+Scalability and real-world impact
+Presentation clarity and demonstration
+
+Presentation Mode
+Participants from Pune must attend in offline mode at the PICT campus. Participants from outside Pune may attend in online mode via Microsoft Teams or Google Meet.
+
+Rules
+All team members must be present during the presentation. Failure to attend any assigned presentation session will result in immediate disqualification. If the number of projects in any domain is insufficient, only e-certificates will be issued and no prize money will be awarded. The final decision of the judges and the InC 2026 Concepts Team shall be binding.
+
+IMPETUS EVENT – PROJECT COMPETITION FOR FE, SE, AND TE
+Eligibility
+The Impetus event is open to First Year (FE), Second Year (SE), and Third Year (TE) Engineering students from all branches. Projects must be aligned with the specified domains.
+Team Structure
+Each team can consist of a minimum of 1 and a maximum of 6 students.
+Registration Fee
+Rs. 100 per team.
+Project Requirements
+For FE and SE teams, projects may be at a prototype or partial implementation level. Projects should be approximately 70 to 80 percent complete.
+For TE teams, projects must be fully implemented. Idea-only presentations are not allowed for TE participants.
+Domains like: 
+Application Development
+Web and Database Applications
+Communication and Networking
+Security Systems
+Internet of Things (IoT)
+Image Processing and Digital Signal Processing
+Embedded Systems and VLSI
+Artificial Intelligence and Machine Learning
+Pattern Recognition
+Bio Signal Processing
+Biomedical and Bioinformatics Applications
+Other emerging technologies
+
+Evaluation Process
+Projects will be evaluated by at least two industry judges. Evaluation may take place in one or two sessions depending on judge availability.
+
+Presentation Mode
+Participants from Pune must attend in offline mode. Participants from outside Pune may attend online via Microsoft Teams or Google Meet.
+
+Rules
+All team members must be present during the presentation. Teams failing to attend their scheduled session will be disqualified. Final decisions will be taken by the judges and the InC 2026 Impetus Team. All participating teams will receive e-certificates.
+
+PRADNYA EVENT – PROGRAMMING CONTEST
+
+Eligibility
+Junior Category: First Year and Second Year students pursuing any undergraduate degree
+Senior Category: Third Year and Final Year undergraduate students
+Team Structure
+Each team may consist of a minimum 1 and maximum of 2 members.
+Registration Fee
+Rs. 100 per team.
+Event Structure
+
+Round 1 – MCQ Round
+This round consists of multiple-choice and short-answer questions testing programming fundamentals, logic, and problem-solving skills. Students from Pune district must attend in offline mode. Students from outside Pune may attend in hybrid mode.
+Wildcard Round
+The wildcard round is open to both junior and senior categories. Top 5 teams from each category qualify directly for the programming round.
+
+Round 2 – Programming Round
+Qualified teams compete in a timed coding contest. Participants may use any programming language of their choice. Problem statements differ for junior and senior categories.
+
+Round 3 – Judging Round
+Top 5 teams from each category are evaluated by industry professionals based on correctness, efficiency, and approach. Judges select the top 3 teams from each category.
+Rules
+Participants from Pune district must attend in offline mode. Participants from outside Pune may attend in hybrid mode. Judges’ decisions are final and binding.
+ 
+CONTACT INFORMATION
+Email: inc2k26@gmail.com
+(mailto:inc2k26@gmail.com)
+Website: 
+www.pictinc.org
+(http://www.pictinc.org)
