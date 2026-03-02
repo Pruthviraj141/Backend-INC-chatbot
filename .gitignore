@@ -1,0 +1,40 @@
+# .gitignore for PICT InC chatbot
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment files (keep .env.example in repo)
+.env
+.env.local
+.env.*
+!.env.example
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Testing
+.pytest_cache/
+
+# Ignore compiled C extensions
+*.so
