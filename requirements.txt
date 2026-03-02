@@ -2,4 +2,6 @@ fastapi==0.115.6
 uvicorn==0.34.0
 groq==0.15.0
 python-dotenv==1.0.1
-pydantic==2.10.4
+# Use Pydantic v1 to avoid building pydantic-core (Rust) on deploy
+# Pydantic v1 provides the BaseModel used in this project for simple schemas
+pydantic==1.10.12
