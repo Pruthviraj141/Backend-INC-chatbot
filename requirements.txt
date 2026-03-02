@@ -2,7 +2,4 @@ fastapi==0.115.6
 uvicorn==0.34.0
 groq==0.15.0
 python-dotenv==1.0.1
-# Use Pydantic v2 (requires Python 3.11 on Render so prebuilt wheels are used)
-# Pin Pydantic v1 to avoid building pydantic-core (Rust) on Render
-# This avoids container-side Cargo/maturin failures on read-only filesystems
-pydantic==1.10.12
+pydantic==2.10.4
